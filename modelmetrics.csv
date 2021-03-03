@@ -1,0 +1,1 @@
+Model Metrics,Features:,"[question1, question2, tfidf_score, USE_score, fuzz_score]"Predictor:,is_duplicateModel:,Universal Sentence Encoder Word Embeddings and Cosine SimilarityUSE_score threshold value:,0.78
